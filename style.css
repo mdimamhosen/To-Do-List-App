@@ -1,0 +1,7 @@
+.completed-task {
+  text-decoration: line-through;
+  color: #888;
+}
+.heading {
+  font-weight: bold;
+}
